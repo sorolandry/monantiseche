@@ -6,6 +6,10 @@ header{
     width: 100%;
     background-color: #2f282f;
 }
+.gauche p{
+   color:#fff;
+   text-align:center;
+}
 .tener{
     background-color:#201b2c;
 }
